@@ -11,7 +11,6 @@ Manage and track project tasks, user stories, sprints, and team workflows using 
 - Sprint Planning and Backlog
 - Issue Tracking and Bug Reports
 - Project Configuration and Workflows
-- Team Collaboration Documents
 
 ## Key Artifacts
 
@@ -24,8 +23,6 @@ Manage and track project tasks, user stories, sprints, and team workflows using 
 ## Tools Used
 
 - JIRA
-- Confluence (Documentation)
-- Git (Version Control)
 
 ## How to Use
 

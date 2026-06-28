@@ -33,7 +33,7 @@ Analyze insurance claims across product categories, customer demographics, and c
 2. Load the dashboard files from this folder following the link
 3. Refer to individual dashboard documentation for details on data sources and metrics
 
-4. ## Live Dashboard
+## Live Dashboard
 
 [https://public.tableau.com/.....](https://public.tableau.com/app/profile/deepannita.gope/viz/InsuranceDashboard1_17824048354650/Dashboard1)
 
